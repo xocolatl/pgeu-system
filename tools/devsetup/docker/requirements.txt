@@ -1,0 +1,4 @@
+Django>=3.2,<3.3
+django-markwhat==1.6.2
+cvss==2.6
+
